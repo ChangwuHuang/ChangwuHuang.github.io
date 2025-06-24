@@ -135,7 +135,9 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 </div>
 
 
-## Pulication List
+## Publication List
+-	Z. Yang, **C. Huang∗**, and X. Yao, “[Towards Private and Fair Machine Learning: Group-Specific Differentially Private Stochastic Gradient Descent with Threshold Optimization,](https://link.springer.com/chapter/10.1007/978-981-96-6582-2_5)” Neural Information Processing (ICONIP 2024), pp. 66–80, 2025.
+-	K. Wu, **C. Huang∗**, and X. Yao∗, “[An Explainable Error Detection Approach for Machine Learning,](https://link.springer.com/chapter/10.1007/978-981-96-6579-2_8)” Neural Information Processing (ICONIP 2024), pp. 104-118, 2025.
 -	Z. Wang, **C. Huang∗**, and X. Yao∗, “[A Roadmap of Explainable Artificial Intelligence: Explain to Whom, When, What and How?,](https://dl.acm.org/doi/10.1145/3702004)” ACM Transactions on Autonomous and Adaptive Systems, vol. 19, no. 4, pp. 1–40, Nov. 2024.
 -	Z. Wang, **C. Huang**, and X. Yao, “[Feature Attribution Explanation Based on Multi-Objective Evolutionary Learning,](https://dl.acm.org/doi/10.1145/3638530.3664056)” Proceedings of the Genetic and Evolutionary Computation Conference Companion, Jul. 2024, pp. 61-62.
 -	J. Xu, J. Yang, P. Li, Z. Wang, **C. Huang∗** and X. Yao, “[A Knowledge Guided Multi-Population Evolutionary Algorithm for Dynamic Workflow Scheduling Problem,](https://ieeexplore.ieee.org/abstract/document/10605246)” 2024 IEEE Conference on Artificial Intelligence (CAI), Singapore, 2024, pp. 21-28.
@@ -174,7 +176,7 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 
 ## Projects and Grants
-- Joint Project between Huawei Technologies Co., Ltd. and SUSTech, “Conceptual Analysis and Path Exploration of Transparency in AI Governance” (智能系统透明治理的概念辨析及路径探索), **Principal Investigator**, 08/2023 - 08/2024.
+- Joint Project between Huawei Technologies Co., Ltd. and SUSTech, “Conceptual Analysis and Path Exploration of Transparency in AI Governance” (智能系统透明治理的概念辨析及路径探索), **Principal Investigator**, 08/2023 - 05/2025.
 
 - Youth Program of Guangdong Basic and Applied Basic Research Foundation, “Automatic Design of Evolutionary Algorithms” (进化算法的自动设计), **Principal Investigator**, 01/2020 - 12/2021.
 
