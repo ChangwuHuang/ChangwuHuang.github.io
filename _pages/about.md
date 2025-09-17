@@ -136,7 +136,9 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 
 
 ## Publication List
--	J. Yang, J. Xu, P. Li, **C. Huang∗**, and X. Yao, “[Fairness-Constrained Multiple-Workflow Scheduling Through Stochastic Ranking,](https://ieeexplore.ieee.org/abstract/document/11043015)” *2025 IEEE Congress on Evolutionary Computation (CEC)*, Hangzhou, China, 2025, pp. 1-9
+-	L. Tan, **C. Huang∗** and X. Yao,  “[A Faithful and Stable Explanation Method for Image Classification,](https://ieeexplore.ieee.org/document/11165495)” IEEE Transactions on Emerging Topics in Computational Intelligence, pp. 1-14, Sep. 2025 (doi: 10.1109/TETCI.2025.3607391).
+-	**C. Huang**, Z. Wang, X. Wen, X. Wang and X. Yao∗,  “[A Conceptual Framework of AI Transparency from Sociotechnical Perspective,](https://ieeexplore.ieee.org/abstract/document/11159283)” IEEE Transactions on Artificial Intelligence, pp. 1-14, Sep. 2025 (doi: 10.1109/TAI.2025.3608735).
+-	J. Yang, J. Xu, P. Li, **C. Huang∗**, and X. Yao, “[Fairness-Constrained Multiple-Workflow Scheduling Through Stochastic Ranking,](https://ieeexplore.ieee.org/abstract/document/11043015)” 2025 IEEE Congress on Evolutionary Computation (CEC), Hangzhou, China, 2025, pp. 1-9
 -	Z. Yang, **C. Huang∗**, and X. Yao, “[Towards Private and Fair Machine Learning: Group-Specific Differentially Private Stochastic Gradient Descent with Threshold Optimization,](https://link.springer.com/chapter/10.1007/978-981-96-6582-2_5)” Neural Information Processing (ICONIP 2024), pp. 66–80, 2025.
 -	K. Wu, **C. Huang∗**, and X. Yao∗, “[An Explainable Error Detection Approach for Machine Learning,](https://link.springer.com/chapter/10.1007/978-981-96-6579-2_8)” Neural Information Processing (ICONIP 2024), pp. 104-118, 2025.
 -	Z. Wang, **C. Huang∗**, and X. Yao∗, “[A Roadmap of Explainable Artificial Intelligence: Explain to Whom, When, What and How?,](https://dl.acm.org/doi/10.1145/3702004)” ACM Transactions on Autonomous and Adaptive Systems, vol. 19, no. 4, pp. 1–40, Nov. 2024.
