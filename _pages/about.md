@@ -23,7 +23,9 @@ I am currently a Research Associate Professor (Associate Professor of Research) 
 
 ## Research Interests
 
-Through my educational pursuits and professional experiences, I have cultivated a robust interdisciplinary research background. During my doctoral studies, I specialized in applying AI techniques (e.g., machine learning and evolutionary algorithms) to address engineering problems, particularly uncertainty analysis, material parameter identification, and fatigue damage analysis in mechanical engineering. Transitioning into my postdoctoral role from March 2018 to September 2020, I concentrated on the automatic algorithm configuration for AI algorithms, specifically for evolutionary algorithms and other intelligent optimization algorithms. Since late 2020, my research trajectory has evolved towards the areas of AI ethics and trustworthy AI, which are not only current global research trends but also pivotal future developmental directions of AI. At present, my research is centered on AI Ethics and Trustworthy AI, with a strong emphasis on essential ethical considerations including transparency, explainability, fairness, safety, and privacy. I have published more than 30 research papers with total <a href='https://scholar.google.com/citations?user=QRnmYfkAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>. 
+Through my educational pursuits and professional experiences, I have cultivated a robust interdisciplinary research background. During my doctoral studies, I specialized in applying AI techniques (e.g., machine learning and evolutionary algorithms) to address engineering problems, particularly uncertainty analysis, material parameter identification, and fatigue damage analysis in mechanical engineering. Transitioning into my postdoctoral role from March 2018 to September 2020, I concentrated on the automatic algorithm configuration for AI algorithms, specifically for evolutionary algorithms and other intelligent optimization algorithms. Since late 2020, my research trajectory has evolved towards the areas of AI ethics and trustworthy AI, which are not only current global research trends but also pivotal future developmental directions of AI. At present, my research is centered on AI Ethics and Trustworthy AI, with a strong emphasis on essential ethical considerations including transparency, explainability, fairness, safety, and privacy. I have published more than 40 research papers with total google scholar citations **1400+**.
+
+<!-- <a href='https://scholar.google.com/citations?user=QRnmYfkAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a> --> .
 
 - **AI Ethics** is an emerging multidisciplinary research field that investigates ethical issues and societal impacts arising from the design, development, implementation, and use of AI technologies. My efforts span the exploration of Ethical Issues and Challenges in AI, Ethical Guidelines and Principles for AI, and AI Ethical Governance Practice.
 
@@ -45,6 +47,31 @@ I manage the WeChat public account “**AI Ethics**”. The ongoing emergence of
 <br/>
 
 # 📑 Research
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/RAI_ESG_SDGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Synergies Among Responsible Artificial Intelligence (RAI), Environmental, Social and Governance (ESG), and Sustainable Development Goals (SDGs)](https://ieeexplore.ieee.org/document/11200036)
+
+**Changwu Huang**, Xin Yao∗
+
+**Summary: **This work explores the synergistic relationships among Responsible Artificial Intelligence (RAI), Environmental, Social and Governance (ESG), and Sustainable Development Goals (SDGs) and proposes an integrated framework that demonstrates their mutual reinforcement. Through this integrated lens, organizations can align RAI, ESG, and SDGs collectively in their strategic planning and operational practices, thereby promoting more effective and sustainable outcomes while addressing complex societal challenges in the AI era. The research contributes to both theoretical understanding and practical guidance for implementing holistic approaches that harness the transformative potential of AI technologies while ensuring that their development and deployment serve broader sustainability and social responsibility objectives.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/AI_Transparency_Framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Conceptual Framework of AI Transparency from Sociotechnical Perspective](https://ieeexplore.ieee.org/abstract/document/11159283)
+
+**Changwu Huang**, ziming Wang, Xingnan Wen, Xiaozhen Wang, Xin Yao∗
+
+**Summary: **Transparency serves as a cornerstone principle in artificial intelligence (AI) ethics and governance, playing a crucial role in upholding ethical standards and ensuring responsible AI deployment. This work proposes a novel three-layered framework to address the fragmented understanding of AI transparency. We systematically analyze transparency through three key elements: to whom the system should be transparent (differentiating internal and external stakeholders), of what information should be disclosed (covering data, algorithm/model, and system-related aspects), and how to achieve transparency . Building on this, the framework conceptualizes transparency across intrinsic (technical inner workings), internal (within organizations), and external (to outside stakeholders) layers, integrating both technical and human-social dimensions. This sociotechnical AI transparency framework enriches both the theory and practice of AI transparency and provides guidelines for designing and deploying transparent AI systems in the future.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MOFAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,9 +80,7 @@ I manage the WeChat public account “**AI Ethics**”. The ongoing emergence of
 
 Ziming Wang, **Changwu Huang**, Yun Li, Xin Yao*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:geHnlv5EZngC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:geHnlv5EZngC'></span></strong>
-
-The feature attribution-based explanation (FAE) methods, which indicate how much each input feature contributes to the model’s output for a given data point, are one of the most popular categories of explainable machine learning techniques. This work formulates the problem of creating FAE explainable models as a multi-objective learning problem that considers multiple explanation quality metrics simultaneously. Experimental results comparing with six state-of-the-art FAE methods on eight datasets demonstrate that our method can optimize multiple conflicting metrics simultaneously and can provide explanations with higher faithfulness, lower sensitivity, and lower complexity than the compared methods. Moreover, the results have shown that our method has better diversity, i.e., it provides various explanations that achieve different tradeoffs between multiple conflicting explanation quality metrics. Therefore, it can provide tailored explanations to different stakeholders based on their specific requirements.
+**Summary: **The feature attribution-based explanation (FAE) methods, which indicate how much each input feature contributes to the model’s output for a given data point, are one of the most popular categories of explainable machine learning techniques. This work formulates the problem of creating FAE explainable models as a multi-objective learning problem that considers multiple explanation quality metrics simultaneously. Experimental results comparing with six state-of-the-art FAE methods on eight datasets demonstrate that our method can optimize multiple conflicting metrics simultaneously and can provide explanations with higher faithfulness, lower sensitivity, and lower complexity than the compared methods. Moreover, the results have shown that our method has better diversity, i.e., it provides various explanations that achieve different tradeoffs between multiple conflicting explanation quality metrics. Therefore, it can provide tailored explanations to different stakeholders based on their specific requirements.
 </div>
 </div>
 
@@ -68,9 +93,7 @@ The feature attribution-based explanation (FAE) methods, which indicate how much
 
 **Changwu Huang**, Zeqi Zhang, Bifei Mao, Xin Yao*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&citation_for_view=QRnmYfkAAAAJ:K3LRdlH-MEoC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:K3LRdlH-MEoC'></span></strong>
-
-AI ethics is an important emerging topic among academia, industry, government, society, and individuals. In the past decades, many efforts have been made to study the ethical issues in AI. This article offers a comprehensive overview of the AI ethics field, including a summary and analysis of AI ethical issues, ethical guidelines and principles, approaches to address AI ethical issues, and methods to evaluate the ethics of AI technologies. Additionally, research challenges and future perspectives are discussed. This article will help researchers to gain a birds eye view of AI ethics, and thus facilitate their further investigation and research.
+**Summary: **AI ethics is an important emerging topic among academia, industry, government, society, and individuals. In the past decades, many efforts have been made to study the ethical issues in AI. This article offers a comprehensive overview of the AI ethics field, including a summary and analysis of AI ethical issues, ethical guidelines and principles, approaches to address AI ethical issues, and methods to evaluate the ethics of AI technologies. Additionally, research challenges and future perspectives are discussed. This article will help researchers to gain a birds eye view of AI ethics, and thus facilitate their further investigation and research.
 </div>
 </div>
 
@@ -83,9 +106,7 @@ AI ethics is an important emerging topic among academia, industry, government, s
 
 Hao Bai, Lujie Shi, Younes Aoues, **Changwu Huang***, Didier Lemosse
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:vRqMK49ujn8C) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:vRqMK49ujn8C'></span></strong>
-
-Fatigue is one of the most significant failure modes in structural and mechanical design. However, fatigue analysis usually suffers from two main challenges: 1) fatigue failure is hard to be predicted accurately, and 2) numerical fatigue damage estimation approaches are time-consuming. To overcome these drawbacks, this work firstly proposes a probabilistic fatigue analysis framework to estimate the fatigue damage of wind turbine tower based on numerical simulations. Then, to reduce the computational cost of numerical approach, a residual neural network (ResNet)-assisted fatigue estimation approach is designed for the assessment of long-term fatigue loads under the proposed probabilistic fatigue analysis framework, where machine learning model is used to approximate the relationship between the load (i.e., wind speed in our study case) and the fatigue damage so that a large number of simulations can be replaced by model prediction. Our proposed method is validated by numerical studies with a state-of-the-art wind turbine and has been applied in a wind turbine design with real-world wind loads.
+**Summary: **Fatigue is one of the most significant failure modes in structural and mechanical design. However, fatigue analysis usually suffers from two main challenges: 1) fatigue failure is hard to be predicted accurately, and 2) numerical fatigue damage estimation approaches are time-consuming. To overcome these drawbacks, this work firstly proposes a probabilistic fatigue analysis framework to estimate the fatigue damage of wind turbine tower based on numerical simulations. Then, to reduce the computational cost of numerical approach, a residual neural network (ResNet)-assisted fatigue estimation approach is designed for the assessment of long-term fatigue loads under the proposed probabilistic fatigue analysis framework, where machine learning model is used to approximate the relationship between the load (i.e., wind speed in our study case) and the fatigue damage so that a large number of simulations can be replaced by model prediction. Our proposed method is validated by numerical studies with a state-of-the-art wind turbine and has been applied in a wind turbine design with real-world wind loads.
 </div>
 </div>
 
@@ -98,9 +119,7 @@ Fatigue is one of the most significant failure modes in structural and mechanica
 
 **Changwu Huang**, Hao Bai, Xin Yao*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&sortby=pubdate&citation_for_view=QRnmYfkAAAAJ:uWQEDVKXjbEC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:uWQEDVKXjbEC'></span></strong>
-
-The performance of evolutionary algorithms (EAs) is strongly affected by their configurations. Thus, algorithm configuration (AC) problem, that is, to properly set algorithm’s configuration, including the operators and parameter values for maximizing the algorithm’s performance on given problem(s) is an essential and challenging task in the design and application of EAs. In this paper, an online algorithm configuration (OAC) approach is proposed for differential evolution (DE) algorithm to adapt its configuration in a data-driven way. In our proposed OAC, the multi-armed bandit algorithm is adopted to select trial vector generation strategies for DE, and the kernel density estimation method is used to adapt the associated control parameters during the evolutionary search process. 
+**Summary: **The performance of evolutionary algorithms (EAs) is strongly affected by their configurations. Thus, algorithm configuration (AC) problem, that is, to properly set algorithm’s configuration, including the operators and parameter values for maximizing the algorithm’s performance on given problem(s) is an essential and challenging task in the design and application of EAs. In this paper, an online algorithm configuration (OAC) approach is proposed for differential evolution (DE) algorithm to adapt its configuration in a data-driven way. In our proposed OAC, the multi-armed bandit algorithm is adopted to select trial vector generation strategies for DE, and the kernel density estimation method is used to adapt the associated control parameters during the evolutionary search process. 
 </div>
 </div>
 
@@ -113,9 +132,7 @@ The performance of evolutionary algorithms (EAs) is strongly affected by their c
 
 Hao Tong, **Changwu Huang**, Leandro L. Minku, Xin Yao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&citation_for_view=QRnmYfkAAAAJ:xtRiw3GOFMkC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:xtRiw3GOFMkC'></span></strong>
-
-Surrogate-assisted evolutionary algorithms (SAEAs), which use efficient surrogate models or meta-models to approximate the fitness function in evolutionary algorithms (EAs), are effective and popular methods for solving computationally expensive optimization problems. This paper dedicates to providing a more systematical review and comprehensive empirical study of surrogate models used in single-objective SAEAs. 
+**Summary: **Surrogate-assisted evolutionary algorithms (SAEAs), which use efficient surrogate models or meta-models to approximate the fitness function in evolutionary algorithms (EAs), are effective and popular methods for solving computationally expensive optimization problems. This paper dedicates to providing a more systematical review and comprehensive empirical study of surrogate models used in single-objective SAEAs. 
 </div>
 </div>
 
@@ -128,14 +145,13 @@ Surrogate-assisted evolutionary algorithms (SAEAs), which use efficient surrogat
 
 **Changwu Huang**, Yuanxiang Li, Xin Yao*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRnmYfkAAAAJ&citation_for_view=QRnmYfkAAAAJ:bFI3QPDXJZMC) <strong><span class='show_paper_citations' data='QRnmYfkAAAAJ:bFI3QPDXJZMC'></span></strong>
-
-Parameter tuning, that is, to find appropriate parameter settings (or configurations) of algorithms so that their performance is optimized, is an important task in the development and application of metaheuristics. Automating this task, i.e., developing algorithmic procedure to address parameter tuning task, is highly desired and has attracted significant attention from the researchers and practitioners. During last two decades, many automatic parameter tuning approaches have been proposed. This paper presents a comprehensive survey of automatic parameter tuning methods for metaheuristics. A new classification (or taxonomy) of automatic parameter tuning methods is introduced according to the structure of tuning methods. The existing automatic parameter tuning approaches are reviewed and their main strengths and weaknesses are discussed, which is helpful for new researchers or practitioners to select appropriate tuning methods to use.
+**Summary: **Parameter tuning, that is, to find appropriate parameter settings (or configurations) of algorithms so that their performance is optimized, is an important task in the development and application of metaheuristics. Automating this task, i.e., developing algorithmic procedure to address parameter tuning task, is highly desired and has attracted significant attention from the researchers and practitioners. During last two decades, many automatic parameter tuning approaches have been proposed. This paper presents a comprehensive survey of automatic parameter tuning methods for metaheuristics. A new classification (or taxonomy) of automatic parameter tuning methods is introduced according to the structure of tuning methods. The existing automatic parameter tuning approaches are reviewed and their main strengths and weaknesses are discussed, which is helpful for new researchers or practitioners to select appropriate tuning methods to use.
 </div>
 </div>
 
 
 ## Publication List
+-	**C. Huang**, X. Yao∗, “[Synergies among Responsible Artificial Intelligence (RAI), Environmental, Social and Governance (ESG), and Sustainable Development Goals (SDGs),](https://ieeexplore.ieee.org/document/11200036)” IEEE Computational Intelligence Magazine, vol. 20, no. 4, pp. 20-41, Nov. 2025.
 -	L. Tan, **C. Huang∗** and X. Yao,  “[A Faithful and Stable Explanation Method for Image Classification,](https://ieeexplore.ieee.org/document/11165495)” IEEE Transactions on Emerging Topics in Computational Intelligence, pp. 1-14, Sep. 2025 (doi: 10.1109/TETCI.2025.3607391).
 -	**C. Huang**, Z. Wang, X. Wen, X. Wang and X. Yao∗,  “[A Conceptual Framework of AI Transparency from Sociotechnical Perspective,](https://ieeexplore.ieee.org/abstract/document/11159283)” IEEE Transactions on Artificial Intelligence, pp. 1-14, Sep. 2025 (doi: 10.1109/TAI.2025.3608735).
 -	Q. Wamg, Y. Zhang, Y. Qian, H. Wang, M. Guo, **C. Huang**, R. Wang, and Y. Wu, “[Prediction of dynamic compressive mechanical behavior of GAP-based solid propellants in wide temperature domain based on data-driven models, ](https://www.sciengine.com/JPT/doi/10.3724/1001-4055.2407033)” Journal of Propulsion Technology, vol. 46, no. 8, pp. 210-221, Aug 2025. 
@@ -255,6 +271,10 @@ Parameter tuning, that is, to find appropriate parameter settings (or configurat
 <br/>
 
 # 🧑‍🏫 Invited Talks
+- May 2025, I was invited to deliver a talk entitled [“Exploring Trustworthy AI: Research on Explainability and Fairness”](https://www.cs.cityu.edu.hk/download/Colloquiums/20250516012437.pdf)  at the Department of Computer Science, City University of Hong Kong.
+
+- January 2025, I was invited to deliver lecture on “Building Trustworthy AI: From Ethical Principles to Technical Methods” at the academic seminar on Brain-Inspired Intelligent Systems for Learning and Evolution hosted by the School of Intelligent Science and Engineering, Harbin Institute of Technology (Shenzhen).
+
 - April 2024, I was invited to deliver lectures on “AI Ethical Risks and Governance” (人工智能伦理风险与治理) and “Ethics and Guidelines in AI Education” (人工智能教育伦理与规范) for the Heyuan City Longchuan County Education Support Project — Artificial Intelligence Education Leadership Enhancement Training for Primary and Secondary School Principals ([“河源市龙川县教育帮扶项目——中小学校长人工智能教育领导力提升培训”](https://efuture.sustech.edu.cn/news/detail/772.html?lang=zh-cn)).
 
 - December 2023, I was invited to participate in the New Generation of Artificial Intelligence and Education expert consultation seminar ([“新一代人工智能与教育”专家咨询研讨会](https://efuture.sustech.edu.cn/news/detail/753.html?lang=zh-cn)), and delivered a keynote talk on the topic of “The Talent View of AI Era: Combining Virtue with Abilities”(AI 时代德才兼备的人才观).
