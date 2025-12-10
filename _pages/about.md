@@ -200,15 +200,25 @@ Hao Tong, **Changwu Huang**, Leandro L. Minku, Xin Yao
 
 - Youth Program of Guangdong Basic and Applied Basic Research Foundation, “Automatic Design of Evolutionary Algorithms” (进化算法的自动设计), **Principal Investigator**, 01/2020 - 12/2021.
 
-- Shenzhen Postdoctoral Research Funding, **Principal Investigator**, 10/2020 - 10/2023
+- Shenzhen Postdoctoral Research Funding, **Principal Investigator**, 10/2020 - 10/2023.
 
-- Key Program of Guangdong Basic and Applied Basic Research Foundation, “Research on Trustworthy, Explainable, and Evolvable Intelligent Computing Theory and Methods” (可信、可解释和可进化的智能计算理论和方法研究), Core Member, 01/2023 - 12/2027.
+- Huawei Collaborative Project, “Multi-Objective Computing Resource Optimization and Scheduling under Complex Constraints for Enterprises with Diverse Business Forms”, **Core Member**, 11/2024 - 11/2025.
 
-- Joint Project between Huawei Technologies Co., Ltd. and SUSTech, “Basic Theory and Key Technologies for Trustworthy Intelligent Systems” (可信系统基础理论和关键技术), Core Member, 01/2021 - 06/2022.
+- Tencent Collaborative Project, “Assessment and Governance of Responsible AI from an ESG Perspective”, **Core Member**, 11/2024 - 05/2025.
+
+- Key Program of Guangdong Basic and Applied Basic Research Foundation, “Research on Trustworthy, Explainable, and Evolvable Intelligent Computing Theory and Methods” (可信、可解释和可进化的智能计算理论和方法研究), **Core Member**, 01/2023 - 12/2027.
+
+- Joint Project between Huawei Technologies Co., Ltd. and SUSTech, “Basic Theory and Key Technologies for Trustworthy Intelligent Systems” (可信系统基础理论和关键技术), **Core Member**, 01/2021 - 06/2022.
 
 - Research on Reliable Digital Microfluidic Biochip Design Methods (可靠性数字微流控生物芯片设计方法研究), Member, 04/2019 - 03/2022.
 
 - Pearl River Talent Program for Guangdong Introducing Innovative and Entrepreneurial Teams, “Reconfigurable Brain-like Intelligent Computing System” (可重构类脑智能计算系统), Member, 09/2018 - 08/2023. 
+
+- Ministry of Science and Technology National Key R&D Program, “Research on Online Procedural Content Generation Based on Multi-Objective Optimization and Learning”, Member, 10/2023 - 09/2025.
+
+- Shenzhen Key Research Base for Humanities and Social Sciences Project, “SUSTech Artificial Intelligence Education Research Center”, Member, 01/2024 - 12/2026.
+
+- Guangdong Provincial Social Science Research Base Project, “SUSTech Next-Generation Artificial Intelligence Education Research Center”, Member, 03/2024 - 03/2029.
 
 
 ## Patents
@@ -271,9 +281,13 @@ Hao Tong, **Changwu Huang**, Leandro L. Minku, Xin Yao
 <br/>
 
 # 🧑‍🏫 Invited Talks
-- May 2025, I was invited to deliver a talk entitled [“Exploring Trustworthy AI: Research on Explainability and Fairness”](https://www.cs.cityu.edu.hk/download/Colloquiums/20250516012437.pdf)  at the Department of Computer Science, City University of Hong Kong.
+- December 2025, I was invited to give a keynote talk “Towards Responsible Artificial Intelligence Education”（构建负责任的人工智能教育）on the sub-project of the 17th Shenzhen Academic Annual Conference "Seminar on the Learning Revolution in the Age of Artificial Intelligence" ([第十七届深圳学术年会子项目“人工智能时代的学习革命研讨会“](https://efuture.sustech.edu.cn/news/detail/991.html?lang=zh-cn)) at  Southern University of Science and Technology, Shenzhen, China.
 
-- January 2025, I was invited to deliver lecture on “Building Trustworthy AI: From Ethical Principles to Technical Methods” at the academic seminar on Brain-Inspired Intelligent Systems for Learning and Evolution hosted by the School of Intelligent Science and Engineering, Harbin Institute of Technology (Shenzhen).
+- November 2025, I was invited to deliver a guest lecture entitled [“AI Transparency: Conceptual Foundations and Explainable AI Methods”](https://www.ln.edu.hk/events/ai-transparency-conceptual-foundations-and-explainable-ai-methods) for the Master of Arts in Artificial Intelligence and the Future program at Lingnan University, Hong Kong, China.
+
+- May 2025, I was invited to deliver a talk entitled [“Exploring Trustworthy AI: Research on Explainability and Fairness”](https://www.cs.cityu.edu.hk/download/Colloquiums/20250516012437.pdf)  at the Department of Computer Science, City University of Hong Kong, Hong Kong, China.
+
+- January 2025, I was invited to deliver lecture on “Building Trustworthy AI: From Ethical Principles to Technical Methods” at the academic seminar on Brain-Inspired Intelligent Systems for Learning and Evolution hosted by the School of Intelligent Science and Engineering, Harbin Institute of Technology (Shenzhen),  Shenzhen, China.
 
 - April 2024, I was invited to deliver lectures on “AI Ethical Risks and Governance” (人工智能伦理风险与治理) and “Ethics and Guidelines in AI Education” (人工智能教育伦理与规范) for the Heyuan City Longchuan County Education Support Project — Artificial Intelligence Education Leadership Enhancement Training for Primary and Secondary School Principals ([“河源市龙川县教育帮扶项目——中小学校长人工智能教育领导力提升培训”](https://efuture.sustech.edu.cn/news/detail/772.html?lang=zh-cn)).
 
