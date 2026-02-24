@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Changwu HUANG"
-description              : "Associate Professor of Research at Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech)."
+description              : "Associate Professor in the School of AI and Liberal Arts (SAI) at Beijing Normal-Hong Kong Baptist University (BNBU)."
 repository               : "ChangwuHuang/ChangwuHuang.github.io"
 google_scholar_stats_use_cdn : false #true
 
@@ -28,7 +28,7 @@ author:
   employer         : # "SUSTech"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=QRnmYfkAAAAJ"
-  email            : "huangcw3@sustech.edu.cn"
+  email            : "changwuhuang@bnbu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Changwu-Huang"
   uri              :
   bitbucket        :
