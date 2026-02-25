@@ -151,7 +151,7 @@ Hao Tong, **Changwu Huang**, Leandro L. Minku, Xin Yao
 
 
 ## Publication List
--	Z. Wang, **C. Huang∗**, K. Tang∗, and X. Yao∗, “[Procedural Fairness in Machine Learning,](https://jair.org/index.php/jair/article/view/20498)” Journal of Artificial Intelligence Research, vol. 85, Article 20, pp. 1–30, Feb. 2026.
+-	Z. Wang, **C. Huang∗**, K. Tang∗, and X. Yao, “[Procedural Fairness in Machine Learning,](https://jair.org/index.php/jair/article/view/20498)” Journal of Artificial Intelligence Research, vol. 85, pp. 1–30, Feb. 2026.
 -	**C. Huang**, X. Yao∗, “[Synergies among Responsible Artificial Intelligence (RAI), Environmental, Social and Governance (ESG), and Sustainable Development Goals (SDGs),](https://ieeexplore.ieee.org/document/11200036)” IEEE Computational Intelligence Magazine, vol. 20, no. 4, pp. 20-41, Nov. 2025.
 -	L. Tan, **C. Huang∗** and X. Yao,  “[A Faithful and Stable Explanation Method for Image Classification,](https://ieeexplore.ieee.org/document/11165495)” IEEE Transactions on Emerging Topics in Computational Intelligence, pp. 1-14, Sep. 2025 (doi: 10.1109/TETCI.2025.3607391).
 -	**C. Huang**, Z. Wang, X. Wen, X. Wang and X. Yao∗,  “[A Conceptual Framework of AI Transparency from Sociotechnical Perspective,](https://ieeexplore.ieee.org/abstract/document/11159283)” IEEE Transactions on Artificial Intelligence, pp. 1-14, Sep. 2025 (doi: 10.1109/TAI.2025.3608735).
